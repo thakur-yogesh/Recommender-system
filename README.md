@@ -7,4 +7,4 @@ This repository contains only the backend code, to run the backend server follow
 * Then run the following command inside the directory named `deploy` - 
   * `python manage.py runserver`
 * Then in the browser insert the following in url bar - 
-  * `http://127.0.0.1:8000/model/?sentence=query`
+  * `http://127.0.0.1:8000/model/`
